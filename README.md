@@ -1,6 +1,4 @@
-1. Project Title & Description
-
-AI Business Plan Generator
+**AI Business Plan Generator**
 
 This is an AI-powered platform that takes a business idea and generates a complete, professional business plan.
 
@@ -10,7 +8,9 @@ The generated plan is editable, and in the future, you’ll be able to save it f
 
 Key point: Right now, the plan is generated and displayed. Saving, exporting, and pitch decks are planned for later.
 
-2. Features
+
+
+**2. Features**
 
 The README lists core features:
 
@@ -23,7 +23,7 @@ Financial Estimator – Generates revenue, cost, and profit projections.
 Business Plan Composer – Automatically creates all standard sections of a business plan.
 
 
-Future Features:
+**Future Features:**
 
 Plan Saving & Management – Currently not implemented, but planned. Eventually, you can store multiple generated plans in your account and come back to edit them later.
 
@@ -33,7 +33,9 @@ AI-powered Pitch Deck Creation – The system will convert your plan into a visu
 
 Key point: Saving plans, exporting, and pitch decks are not functional yet but are in the roadmap.
 
-3. Tech Stack
+
+
+**3. Tech Stack**
 
 Lists the technologies used:
 
@@ -49,7 +51,9 @@ Hosting – Vercel and render
 
 Key point: The stack is modern and scalable, ready for future features like saving plans, exports, and pitch decks.
 
-4. Architecture Overview
+
+
+**4. Architecture Overview**
 User → Web UI → Backend API → AI Engine → Database → Output
 
 
@@ -67,7 +71,8 @@ Saved plans will go into the database.
 
 Exports (PDF/Word/Excel/PPT) will be generated from the formatted plan.
 
-5. Core Modules
+
+**5. Core Modules**
 
 Prompt Handler – Understands the user’s business idea.
 
@@ -82,7 +87,7 @@ idea validation
 Dashboard – Future feature: lets users see and manage saved plans.
 
 
-6. Future Enhancements
+**6. Future Enhancements**
 
 Save & Manage Plans – Users will be able to store multiple generated plans, edit them, and reuse them later.
 
@@ -98,7 +103,8 @@ User Analytics & Insights – Track how users generate plans and what features a
 
 Key point: These are not functional yet. They indicate the roadmap and future direction of the app.
 
-7. Project Structure
+
+**7. Project Structure**
 
 Backend – Organized to separate configuration, models, services, controllers, routes, middleware, and utils.
 
@@ -154,7 +160,7 @@ frontend/
 │   └─ context/                    # React context/state management
 
 
-8. Installation & Usage
+**8. Installation & Usage**
 
 Instructions show how to set up backend and frontend locally.
 
@@ -182,9 +188,9 @@ When pitch deck is implemented, users can convert plans into investor-ready pres
 9. Screenshots
 10. <img width="1813" height="961" alt="image" src="https://github.com/user-attachments/assets/d6e55bc2-1568-4a2f-a92d-e7fef5933e6b" />
 11. <img width="1095" height="944" alt="image" src="https://github.com/user-attachments/assets/3a458548-a66a-431f-b894-563d8d2c6a47" />
+<img width="1911" height="688" alt="image" src="https://github.com/user-attachments/assets/8d5cb0f1-4a61-4129-b2cd-689ed4b6cb64" />
 
 
 
-Screenshots section is for showing the UI and generated plans.
 
-MIT license is included to allow free use and modification.
+
